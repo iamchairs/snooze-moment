@@ -1,6 +1,6 @@
 {
   "name": "snooze-moment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Moment Wrapper for SnoozeJS",
   "main": "index.js",
   "scripts": {
