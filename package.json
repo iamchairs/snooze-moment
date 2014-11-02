@@ -1,0 +1,30 @@
+{
+  "name": "snooze-moment",
+  "version": "1.0.0",
+  "description": "NPM Moment Wrapper for SnoozeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamchairs/snooze-moment.git"
+  },
+  "keywords": [
+    "snooze",
+    "snoozejs",
+    "moment",
+    "date",
+    "datetime"
+  ],
+  "author": "Micah Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/snooze-moment/issues"
+  },
+  "homepage": "https://github.com/iamchairs/snooze-moment",
+  "dependencies": {
+    "moment": "^2.8.3",
+    "snooze": "^0.7.52"
+  }
+}
