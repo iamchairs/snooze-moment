@@ -1,6 +1,6 @@
 {
   "name": "snooze-moment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NPM Moment Wrapper for SnoozeJS",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/iamchairs/snooze-moment",
   "dependencies": {
-    "moment": "^2.8.3",
-    "snooze": "^0.7.52"
+    "moment": "^2.8.3"
   }
 }
